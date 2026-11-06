@@ -1,0 +1,7 @@
+node_modules/
+lib/
+auth_info.json
+auth_cumi/
+*.bak
+*.log
+.DS_Store
